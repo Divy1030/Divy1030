@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Divya Rai</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divy1030&label=Profile%20views&color=0e75b6&style=flat" alt="divy1030" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy1030" alt="divy1030" /></a> </p>
 
 - 🔭 I’m currently working on **Next js**
 
-- 🌱 I’m currently learning **Node js, Express js**
-
-- 🤝 I’m looking for help with **backend**
+- 🌱 I’m currently learning **Solidity, Smart Contracts**
 
 - 👨‍💻 All of my projects are available at [https://lively-rolypoly-653c71.netlify.app/](https://lively-rolypoly-653c71.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@divy1030](https://hashnode.com/@divy1030)
-
-- 💬 Ask me about **react,react-native**
+- 💬 Ask me about **movies**
 
 - 📫 How to reach me **raidivy3010@gmail.com**
-
-- ⚡ Fun fact **Loves Cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divy1030&show_icons=true&locale=en" alt="divy1030" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divy1030&" alt="divy1030" /></p>
