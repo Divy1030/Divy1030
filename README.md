@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity, Smart Contracts**
 
-- 👨‍💻 All of my projects are available at [https://lively-rolypoly-653c71.netlify.app/](https://lively-rolypoly-653c71.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-jade-nine-61.vercel.app/)
 
 - 💬 Ask me about **movies**
 
