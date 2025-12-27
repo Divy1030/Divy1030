@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy1030" alt="divy1030" /></a> </p>
 
-- 🔭 I’m currently working on **Next js**
+- 🔭 I’m currently working on **DeFi**
 
 - 🌱 I’m currently learning **Solidity, Smart Contracts**
 
