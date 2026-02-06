@@ -4,7 +4,7 @@
 <h2 align="center">🚀 My GitHub Space Shooter</h2>
 
 <p align="center">
-  <img src="game.gif" alt="GitHub Space Shooter Game" width="600" />
+  <img src="game.gif" alt="GitHub Space Shooter Game" width="800" />
 </p>
 
 
