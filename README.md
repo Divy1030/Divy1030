@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Divya Rai</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
+<h2 align="center">🚀 My GitHub Space Shooter</h2>
+
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter Game" width="600" />
+</p>
+
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy1030" alt="divy1030" /></a> </p>
