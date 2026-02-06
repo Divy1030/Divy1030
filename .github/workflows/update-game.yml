@@ -1,0 +1,24 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs daily at 12:00 AM UTC
+  workflow_dispatch:     # Allows manual trigger
+
+permissions:
+  contents: write        # REQUIRED to commit the GIF
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Space Shooter GIF
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: game.gif
+          strategy: random
