@@ -4,7 +4,7 @@
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy1030" alt="divy1030" /></a> </p> -->
-💻 Full Stack Developer(Next.js,Node.js,React.js) with experience building production-grade web & mobile applications
+💻 Full Stack Developer(Next.js,Node.js,React.js) with experience building production-grade web & mobile applications\n
 📱 Published React Native apps on Google Play Store
 🤖 Worked as a GenAI / AI Engineer Intern, building LLM-powered agent systems
 ☁️ Experienced with AWS, Redis, Docker, scalable APIs
