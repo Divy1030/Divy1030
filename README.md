@@ -4,14 +4,11 @@
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy1030" alt="divy1030" /></a> </p> -->
-
-- 🔭 I’m currently working on **DeFi**
-
-- 🌱 I’m currently learning **Solidity, Smart Contracts**
-
-- 👨‍💻 All of my projects are available at https://portfolio-jade-nine-61.vercel.app/)
-
-- 💬 Ask me about **movies**
+💻 Full Stack Developer(Next.js,Node.js,React.js) with experience building production-grade web & mobile applications
+📱 Published React Native apps on Google Play Store
+🤖 Worked as a GenAI / AI Engineer Intern, building LLM-powered agent systems
+☁️ Experienced with AWS, Redis, Docker, scalable APIs
+🌱 Currently deepening expertise in Next.js, System Design & GenAI
 
 - 📫 How to reach me **raidivy3010@gmail.com**
 
